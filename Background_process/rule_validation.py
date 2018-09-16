@@ -144,7 +144,6 @@ class Processing:
             lock.release()
             if self.update_flag == 1:
                 self.rule_entry_file_handling()
-            time.sleep(.1)
                 
             
 def processing_entry_file(lock, v):

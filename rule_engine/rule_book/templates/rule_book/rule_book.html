@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<head>
+<h1 style="text-align:center">Rule Controller</h1>
+    {% load staticfiles %}
+    <script src="{% static 'rule_book/form.js' %}"></script>
+    <style>
+    </style>
+</head>
+<body>
+    <div id = "id_form_sec">
+    {% if success == "false" %}
+    <h1><label id = "id_success"> </label></label></h1>
+    {% else %}
+    <h1><label id = "id_success"> {{ success }}</label></label></h1>
+    {% endif %}
+
+    <form method="POST", onsubmit="return validate()" action = "{% url 'rule' %}" style="color :cadetblue;background-color:gray"> 
+        {% csrf_token %}
+        <h1>{{ rule.signal }}</h1>
+        <h1>{{ rule.NewRule }}<label id = "id_sig_name" style="font-size:medium;color:white"></label></h1>
+        <h1>{{ rule.value_type }}<label id = "id_format" style="font-size:medium;color:white"></label></h1>
+        <h1>{{ rule.value }}<br></h1>
+        <input type="submit" value="SUBMIT" style="margin-left:45%;border-radius:10px;height:30px;width:200px  ">
+        <label id = "id_error" style="font-size:medium;color:white"></label>
+    </form>
+
+    <ul type="none">
+        <li style="font-family:Arial;font-weight:bold">Regex invalidated data : <br>{{dis.regex_invalidated_data}}</li>
+        <li style="font-family:Arial;font-weight:bold">Rule invalidated data : <br>{{dis.rule_invalidated_data}}</li>
+        <li style="font-family:Arial;font-weight:bold"> Accepted data : <br>{{dis.accepted_data}}</li>
+    </ul>
+</div>
+</body>
+</html>

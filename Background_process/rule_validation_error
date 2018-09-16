@@ -1,0 +1,144 @@
+2018-09-15 16:30:07.003265	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 20-50 for ATL1 signal 
+2018-09-15 16:30:32.082437	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '65'} ====> [Rejected] : value must be in range of 20-50 for ATL1 signal 
+2018-09-15 16:30:57.148282	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 16:31:07.192929	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:56:41.395124	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:56:46.399704	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:56:51.404348	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:57:21.456882	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 19:57:31.465569	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:57:41.486727	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:58:38.288021	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:58:38.792670	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:58:39.298318	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:58:42.354174	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 19:58:43.366469	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 19:58:44.387729	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:00:39.386246	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:00:39.892924	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:00:40.398537	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:00:43.452368	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:00:44.464694	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:00:45.482936	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:01:19.266851	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:01:19.773528	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:01:20.279142	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:01:23.330977	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:01:24.344299	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:01:25.364208	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:02:39.417770	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:02:39.923417	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:02:40.429064	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:02:43.483892	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:02:44.495214	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:02:45.517453	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:03:48.180157	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:03:48.685838	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:03:49.192449	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:03:52.245733	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:03:53.259057	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:03:54.282317	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:07:20.731497	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:07:21.235752	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:07:21.744748	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:07:24.843678	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:07:25.868231	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:07:26.911584	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:11:27.081095	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:11:27.586407	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:11:28.101094	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:11:31.193491	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:11:32.228495	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:11:33.267737	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:27.549200	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:28.054244	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:28.565858	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:31.658645	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:15:32.689986	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:33.719857	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:39.920584	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:40.424841	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:40.934546	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:44.036416	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:15:45.067504	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:15:46.111774	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:16:56.279269	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:16:56.784687	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:16:57.294927	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:17:00.401166	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:17:01.424834	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:17:02.465721	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:19:23.251990	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:19:23.756340	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:19:24.267344	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:19:27.364435	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:19:28.400640	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:19:29.438984	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:20:43.551052	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:20:44.057055	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:20:44.568305	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:20:47.669345	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:20:48.708291	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:20:49.737475	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:21:05.778780	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:21:06.285758	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:21:06.803560	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:21:09.904414	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 20:21:10.922720	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 20:21:11.947795	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:05:24.853265	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:05:25.375407	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:05:25.897337	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:05:29.058533	{'signal': 'ATL5', 'value_type': 'Datetime', 'value': '2017-07-21 20:20:21'} ====> [Rejected] : value_type for ATL5 signal should be String
+2018-09-15 23:05:30.096212	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:05:31.136771	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:08:51.685760	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:08:51.796669	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:08:51.907098	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:08:52.807986	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:08:53.050985	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:15.389316	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:15.498413	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:15.608385	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:16.518482	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:16.757258	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:42.170157	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:42.278612	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:42.385407	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:43.290283	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:16:43.516843	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:17:00.041782	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:17:00.155251	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:17:00.264914	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:17:01.187371	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:17:01.413800	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:01.282021	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:02.006946	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:02.127952	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:03.034087	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:03.266586	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:15.439169	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:15.549413	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:15.657105	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:16.555254	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:19:16.794649	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:17.428194	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:17.536008	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:17.646656	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:18.534604	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:18.763035	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:58.470563	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:58.581707	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:58.696957	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:59.603553	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:21:59.838006	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:23:34.589733	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:23:34.698001	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:23:34.820403	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:23:35.730440	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:23:35.954261	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:25:04.520784	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '10'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:25:04.628856	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '20'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:25:04.739655	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:25:05.635496	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '35'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 
+2018-09-15 23:25:05.870245	{'signal': 'ATL1', 'value_type': 'Integer', 'value': '95'} ====> [Rejected] : value must be in range of 40-90 for ATL1 signal 

@@ -1,0 +1,104 @@
+2018-09-15 16:30:22.049714	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must be  consists of alphabet only for String value_type
+2018-09-15 16:30:27.067631	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 16:30:37.089636	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must be  consists of alphabet only for String value_type
+2018-09-15 16:30:52.141670	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 19:56:56.409957	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 19:57:01.414565	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 19:57:11.434699	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 19:57:26.461495	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 19:58:39.805988	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 19:58:40.311639	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 19:58:41.333872	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 19:58:42.859818	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:00:40.904215	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:00:41.410829	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:00:42.432130	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:00:43.959015	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:01:20.784814	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:01:21.291467	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:01:22.311738	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:01:23.837623	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:02:40.936731	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:02:41.442381	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:02:42.463621	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:02:43.989572	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:03:49.699093	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:03:50.204195	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:03:51.224465	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:03:52.752378	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:07:22.261200	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:07:22.776207	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:07:23.812459	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:07:25.350791	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:11:28.614202	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:11:29.130638	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:11:30.165187	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:11:31.711176	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:15:29.074881	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:15:29.584968	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:15:30.618163	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:15:32.179595	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:15:41.454146	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:15:41.973036	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:15:43.010199	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:15:44.549190	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:16:57.807103	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:16:58.327006	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:16:59.363868	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:17:00.916167	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:19:24.775559	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:19:25.294678	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:19:26.332996	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:19:27.881578	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:20:45.085991	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:20:45.598779	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:20:46.636179	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:20:48.189151	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 20:21:07.323699	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:21:07.843819	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 20:21:08.875887	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 20:21:10.410489	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:05:26.417912	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:05:26.935321	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:05:27.993203	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:05:29.571537	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:08:52.022199	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:08:52.129123	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:08:52.360209	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:08:52.697843	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:16:15.717955	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:16:15.838210	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:16:16.062693	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:16:16.411610	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:16:42.495338	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:16:42.604220	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:16:42.828638	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:16:43.180277	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:17:00.383094	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:17:00.494625	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:17:00.717618	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:17:01.072970	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:19:02.237774	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:19:02.348197	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:19:02.577688	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:19:02.926386	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:19:15.766045	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:19:15.872555	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:19:16.095601	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:19:16.442020	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:21:17.755763	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:21:17.864754	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:21:18.090420	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:21:18.425868	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:21:58.803980	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:21:58.920714	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:21:59.156896	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:21:59.493641	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:23:34.934445	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:23:35.044391	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:23:35.268407	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:23:35.618419	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
+2018-09-15 23:25:04.847325	{'signal': 'ATL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:25:04.956790	{'signal': 'ACCTL1', 'value_type': 'String', 'value': '35'} ====> [Rejected] : Signal name matching issue
+2018-09-15 23:25:05.183920	{'signal': 'ATL6', 'value_type': 'String', 'value': '14578'} ====> [Rejected] : value must  consists of alphabet only for String value_type
+2018-09-15 23:25:05.528295	{'signal': 'ATL10', 'value_type': 'Datetime', 'value': '2017-07-26 4516:35:11'} ====> [Rejected] : value must be of format YYYY-MM-DD HH:MM:SS for Datetime value_type
